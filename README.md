@@ -5,7 +5,7 @@
 -
 -Esse é um Programa Simples Que Eu Desenvolvi No Inicio Do Meu Aprendizado Em  C SHARP
 -Basicamente Esse Programa é Um Sistema Simples
--De Login/Senha e Cadastro No CMD Prints Abaixo
+-De Login/Senha e Cadastro No CMD, Prints Abaixo
 -
 https://prnt.sc/wld11m
 
