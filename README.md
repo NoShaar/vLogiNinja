@@ -20,5 +20,5 @@ https://dotnet.microsoft.com/download/dotnet/5.0
 -
 Escolha Seu Sistema Operacional Sem Muito Segredo E De Um Next Em Tudo
 -
-Depois De Instalado So Executar o vLogiNinja.exe
+Depois De Instalado So Executar o LogiNinja.exe
 -
