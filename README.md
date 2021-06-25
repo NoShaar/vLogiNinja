@@ -16,6 +16,6 @@ https://prnt.sc/wld1kk
 
 ## https://dotnet.microsoft.com/download/dotnet/5.0
 
-## Escolha Seu Sistema Operacional Sem Muito Segredo E De Um Next Em Tudo
+## Escolha Seu Sistema Operacional Sem Muito Segredo E De Um Next Em Tudo.
 
 ## Depois De Instalado Só Executar o LogiNinja.exe
